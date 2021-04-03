@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    nexpose (7.2.1)
+    nexpose (7.3.0)
 
 PLATFORMS
   x64-mingw32
